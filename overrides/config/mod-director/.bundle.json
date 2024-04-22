@@ -1,0 +1,174 @@
+{
+	"curse": [
+		{
+			"addonId": 222880,
+			"fileId": 2926428,
+			"installationPolicy": {
+				"name": "Thermal Foundation"
+			}
+		},
+		{
+			"addonId": 227443,
+			"fileId": 2920505,
+			"installationPolicy": {
+				"name": "Thermal Dynamics"
+			}
+		},
+		{
+			"addonId": 69163,
+			"fileId": 2926431,
+			"installationPolicy": {
+				"name": "Thermal Expansion"
+			}
+		},
+		{
+			"addonId": 271835,
+			"fileId": 2920437,
+			"installationPolicy": {
+				"name": "Thermal Cultivation"
+			}
+		},
+		{
+			"addonId": 271384,
+			"fileId": 2920434,
+			"installationPolicy": {
+				"name": "COFH World"
+			}
+		},
+		{
+			"addonId": 69162,
+			"fileId": 2920433,
+			"installationPolicy": {
+				"name": "COFH Core"
+			}
+		},
+		{
+			"addonId": 270789,
+			"fileId": 2920436,
+			"installationPolicy": {
+				"name": "RedstoneFlux"
+			}
+		},
+		{
+			"addonId": 389665,
+			"fileId": 3247154,
+			"installationPolicy": {
+				"name": "YUNG'S Better Mineshafts"
+			}
+		},
+		{
+			"addonId": 340583,
+			"fileId": 3003242,
+			"installationPolicy": {
+				"name": "YUNG'S Better Caves"
+			}
+		},
+		{
+			"addonId": 399377,
+			"fileId": 3113274,
+			"installationPolicy": {
+				"name": "YUNG'S Law"
+			}
+		},
+		{
+			"addonId": 70496,
+			"fileId": 4675629,
+			"installationPolicy": {
+				"name": "BdLib"
+			}
+		},
+		{
+			"addonId": 227083,
+			"fileId": 2518667,
+			"installationPolicy": {
+				"name": "Baubles"
+			}
+		},
+		{
+			"addonId": 237102,
+			"fileId": 3157548,
+			"installationPolicy": {
+				"name": "FTB Utilities"
+			}
+		},
+		{
+			"addonId": 289412,
+			"fileId": 3156637,
+			"installationPolicy": {
+				"name": "FTB Quests"
+			}
+		},
+		{
+			"addonId": 386134,
+			"fileId": 3078750,
+			"installationPolicy": {
+				"name": "FTB Ultimine"
+			}
+		},
+		{
+			"addonId": 237167,
+			"fileId": 2985811,
+			"installationPolicy": {
+				"name": "FTB Library (Legacy)"
+			}
+		},
+		{
+			"addonId": 309674,
+			"fileId": 3003364,
+			"installationPolicy": {
+				"name": "ItemFilters"
+			}
+		},
+		{
+			"addonId": 228404,
+			"fileId": 3117927,
+			"installationPolicy": {
+				"name": "Actually Additions"
+			}
+		},
+		{
+			"addonId": 557549,
+			"fileId": 5229422,
+			"installationPolicy": {
+				"name": "Had Enough Items"
+			}
+		},
+		{
+			"addonId": 493962,
+			"fileId": 3814371,
+			"installationPolicy": {
+				"name": "AE Additions"
+			}
+		},
+		{
+			"addonId": 225561,
+			"fileId": 2678374,
+			"installationPolicy": {
+				"name": "Extra Utilities"
+			}
+		},
+		{
+			"addonId": 247111,
+			"fileId": 2887479,
+			"installationPolicy": {
+				"name": "TOP Addons"
+			}
+		}
+	],
+	"url": [
+		{
+			"url": "https://github.com/CleanroomMC/Scalar/releases/download/2.11.1/scalar-1.12.2-2.11.1.jar",
+			"installationPolicy": {
+				"name": "Scalar",
+				"description": "This is Scalar. Required to all the mods who used this version (2.11.1) of scalar (Recommended if you are using Cleanroom Loader) "
+			}
+		},
+		{
+			"url": "https://github.com/CleanroomMC/Fugue/releases/download/0.14.1/+Fugue-1.12.2-0.14.1-beta.jar",
+			"installationPolicy": {
+				"name": "Fugue",
+				"description": "This is Fugue (Dead mods still alive ... in some way). Recommended for Cleanroom Loader as it will fix the mod incompat to the loader"
+			}
+		}
+	]
+}

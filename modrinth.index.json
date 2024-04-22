@@ -1,0 +1,823 @@
+{
+    "dependencies": {
+        "forge": "14.23.5.2860",
+        "minecraft": "1.12.2"
+    },
+    "files": [
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/e00stJKZ/versions/ij0ZKnvW/FermiumBooter-1.0.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 13827,
+            "hashes": {
+                "sha1": "59235b37c93db143e483355f22d34d7dd68dea1f",
+                "sha512": "fe60d8a66f32814aca3676230418ada7ae1991b2a33ec04f0ab1514288781471696954a815c0efe38db684019223ae79087a3a22a7cb9b42772d5b8b5e393b94"
+            },
+            "path": "mods/!FermiumBooter-1.0.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Bnsrfd1o/versions/Ha5RG6IC/%21configanytime-3.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 5201,
+            "hashes": {
+                "sha1": "b6d8a10219d3802e04de6b1e815a5853e50adbcc",
+                "sha512": "27103270deb607da87d983a0a12ab3a64497b138b4748364f777dd5606f9c0ed6174f039edc6c2db0e401b1d8e99ae88ddce252b104892fc98273cc9259bcf87"
+            },
+            "path": "mods/!configanytime-3.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/G1ckZuWK/versions/yUnADFGO/%21mixinbooter-9.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1799352,
+            "hashes": {
+                "sha1": "bbf73abfc0099e9e475f8f8303f3d5139a4a69af",
+                "sha512": "926b1d12f277942e6a900650900975b5fee6e6028f76efdde57b759a69c6bf7b75ac8be10320d69a1b159a0020d779df15cee161f74cbb16a360ccee3df66bf4"
+            },
+            "path": "mods/!mixinbooter-9.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/4dRu1OUz/versions/b8pITnja/%21mod-director-launchwrapper-1.8.3.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 2917748,
+            "hashes": {
+                "sha1": "e00b900dc224c816289fb66716429f57a86c88dd",
+                "sha512": "341c304d4545b8cf7a0e1a2d5907bfdaf5675904b104844f019670647a15e2aabcff56c44f0860d3a70b333fc301d7261b3fe6ae66b41b3de72d72d7048b87d0"
+            },
+            "path": "mods/!mod-director-launchwrapper-1.8.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/NvZ9ZhwE/versions/FgbUBupA/AutoRegLib-1.3-32.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 108306,
+            "hashes": {
+                "sha1": "267269ca7f1a71fb3bb35bdb8e61702a4da6263e",
+                "sha512": "863f62eb54bd5b545a136c2b3d00dfa0a0788ca65257507238b5f3af85ac8419697ec3f566bb11fb1ad787f0fa05184a22633de83953c1c01ff23b99b1f190bb"
+            },
+            "path": "mods/AutoRegLib-1.3-32.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/pfjLUfGv/versions/1.10-364.4-forge/Botania%2Br1.10-364.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 13817704,
+            "hashes": {
+                "sha1": "7ad38e809f785c18fbc17c5beac2650342ae4a96",
+                "sha512": "700a966083210d9be7bd86a2f2abdcc11ba67d0031fa8423cdb9e6b6435b0961bbf380e12a6550d612688d592f40c15374ff80c115996a16030dacda820d1fe2"
+            },
+            "path": "mods/Botania+r1.10-364.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/2u3eevWi/versions/BVOYfDCn/BotanicAdditions-1.12.2-12.2.6.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 199731,
+            "hashes": {
+                "sha1": "8f1770e8fb050dfdf38e8ee89aaab2e33db7e673",
+                "sha512": "4f8aeef29ebe79e33708fb0fb4b2569218b95fd2aba259fa7b32d54108eb76c561e33b11b4803b52fb6d846b1ed4a8b921dbf9de218cea470cecb0deeb7f2052"
+            },
+            "path": "mods/BotanicAdditions-1.12.2-12.2.6.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/1jDdpgcc/versions/pRBDqQTq/CarbonConfig-1.12.2-1.2.3.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1176319,
+            "hashes": {
+                "sha1": "e423aafcdcfbe8d3c578cc7503d63de843ed75d0",
+                "sha512": "1e745af99b46e5e4542be21ff1975b234239ae6c2bd199ec52ff9201d7498b63171f4b03fdffd7c774539d354482683c5bb3b92c23026ec4c08c87b58a9c2ce5"
+            },
+            "path": "mods/CarbonConfig-1.12.2-1.2.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/2gq0ALnz/versions/QO8CBeNu/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 704330,
+            "hashes": {
+                "sha1": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
+                "sha512": "7d80d3cd39cb16c0dd16b88a66b809ab60ee468a25ec427ef2f7a8bde1f170a71ddf99b82d44bebeacc6bfa5e76450b18c476e8067fb1f9de35f743b920622ac"
+            },
+            "path": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/6i3L6af7/versions/0.1.2/Debark-0.1.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 63460,
+            "hashes": {
+                "sha1": "ce110cb4abf67482da5392036634c75658013922",
+                "sha512": "2d140ac44b8903eaf1fc3be80bfa8767a263b0f301a665d1c4483aac5263bcac1ef0f5c7fcbb16234380f168d1d1c606dbee07ed8cf25d92c53fe134f628b81c"
+            },
+            "path": "mods/Debark-0.1.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/WrQH56oT/versions/3ropl5Pi/EnderMail-1.12.2-1.1.3.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 128790,
+            "hashes": {
+                "sha1": "61d2ab7fd18e54e452619b2b1aecdee87bd3f240",
+                "sha512": "2669e44ef085c164206dce22f87723c78e244836b6d57aeef3eb3dce05e3a2b21585d2d820381de0a176c2e295b8c7bb32adc718c4c5c3be462178185eff96ed"
+            },
+            "path": "mods/EnderMail-1.12.2-1.1.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/BbrHg80P/versions/dKRcYSd0/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 223250,
+            "hashes": {
+                "sha1": "7a872baf72b1da038704056a0cf7bbcc40bfa4d6",
+                "sha512": "d0201a6fc0fd66a6c972d914641d4a7bf5849c262ef8eb02ba6cc9c3c7b90f9bd08ec5f639c29e7edd46dd223b0e5b5c128405ec5fb2d2cec33156daf1b35f3e"
+            },
+            "path": "mods/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/CYSUVOdj/versions/kdo4Nl2p/EquipmentCompare-1.12.2-1.3.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 915067,
+            "hashes": {
+                "sha1": "ce3650a26c22a8a755ee691cc0c2315581a1e740",
+                "sha512": "f36700629250d98777528c2e7c35fada69b4041e285f58ef7944a6dd4ffc434202f1d4a893f87097912c4041a4c66cb8525119fd4c915b015ea504ea324ea3bc"
+            },
+            "path": "mods/EquipmentCompare-1.12.2-1.3.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/1mPcAmuy/versions/fTiIpLvr/Forgelin-Continuous-1.9.23.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 7311886,
+            "hashes": {
+                "sha1": "ce7f29d55b00ed31970634da306b4c11f163b074",
+                "sha512": "13aab2a6b14530b2ed80547fad01042d6f13ebd2f5f59c270281047f5638170ca1c3df682f7dea135ba01ed8d68b208a8e7d7fc7c19495c27a1b8337085dc375"
+            },
+            "path": "mods/Forgelin-Continuous-1.9.23.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/PlkSuVtM/versions/Lq9syePn/HammerLib-1.12.2-2.0.6.32.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 2430079,
+            "hashes": {
+                "sha1": "03466db5a22d44af92b1a5d029328ebf146b6092",
+                "sha512": "9f0bba40daca2b2a75eecdf9fe7ff1f43f8ec18b813802a37f442d8eb02320d6cdf67f6d38b8f661f1efdbcf90a3107554d136168e63f59d257cfbc4f6fc1bad"
+            },
+            "path": "mods/HammerLib-1.12.2-2.0.6.32.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/2ecVyZ49/versions/Y33CP7Sd/Ksyxis-1.2.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 16552,
+            "hashes": {
+                "sha1": "bc19a951192cab46be79b934d418e3fcee87af91",
+                "sha512": "240e712ec702a4e448d45be078c156c4f4c32581bed4e580b75d4291f271138d8f8c8f6e5f8b9cca608c37cbb19c55252a5c7738d47ca86962ffff08823291ad"
+            },
+            "path": "mods/Ksyxis-1.2.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Cg6Uc79H/versions/XPQUzjYi/Mantle-1.12-1.3.3.55.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 843486,
+            "hashes": {
+                "sha1": "a1e5d5c197dae3e92637cafb8cd996185191165b",
+                "sha512": "3ff6e2ef2eaa0ea5c1cf0d30dc35cec65b92f1eb2bb9f1261a6c97755e7cc24b80a6902f354d9b88ae58f0a03077b74a35ecce494705a551c769d102b1c397c3"
+            },
+            "path": "mods/Mantle-1.12-1.3.3.55.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/toGHjw6t/versions/sLyn9C9P/Mekanism-Community-Edition-1.12.2-9.12.8-ALL.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 8367567,
+            "hashes": {
+                "sha1": "4be1422242f224d735f37f732c15af16312b1078",
+                "sha512": "5087d86c76d8e14dfe5ece6ad51ed5a7da43cfde0a643256eecb8341019e6e8e2f9895af5a009501994d46b3e9bc22ba7e2927a8dd6ad3b853fc4590172b1d7c"
+            },
+            "path": "mods/Mekanism-Community-Edition-1.12.2-9.12.8-ALL.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/pFTNIPnW/versions/lddTwd36/MekanismEcoEnergistics1.2-2%5BR%5D.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1676808,
+            "hashes": {
+                "sha1": "e6504f3bfc2e8c6267022dd46dcdc67d9d9e56b7",
+                "sha512": "b4cec09eb84ac75d9d4cecdb86629af67d612c29f1eb32ad4118e09bc4f35d96d2a8ca2a8d5edd10e19cb3d267ce2b781182073d0182b60e9a78e716fb1742ee"
+            },
+            "path": "mods/MekanismEcoEnergistics1.2-2[R].jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/RDd8zUHa/versions/s7KpWnO8/Modpack%2BConfiguration%2BChecker-1.12.2-v1.9.5.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 157232,
+            "hashes": {
+                "sha1": "7a486d479baaeace95b7764b1d93939b3388764d",
+                "sha512": "79dafc8150efb50b2ef39b01bedd0bfe4af4ff1bd223a4d48a7d0185e2af027baf69e52f93e35bdd7c2ead0b9c2cb601ca68142c9fa4728e49a22c238e272462"
+            },
+            "path": "mods/Modpack+Configuration+Checker-1.12.2-v1.9.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ugIdhQx4/versions/VzVyRW6W/PackagedAuto-1.12.2-1.0.12.46.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 271166,
+            "hashes": {
+                "sha1": "ba9386c48cd2f868bd61d423ce2ef8ff9a11545d",
+                "sha512": "bc1f3f77713262cf2343fb0e05b02cf5672a702362ffbec0943b2324d9893a3ddaa718b38aaa80e3219b6369064e6983d30f8ebedec36474f266cfe642f48747"
+            },
+            "path": "mods/PackagedAuto-1.12.2-1.0.12.46.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/qnQsVE2z/versions/MPJKDJmI/Quark-r1.6-179.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 3877577,
+            "hashes": {
+                "sha1": "35521fd8911b6ef893afbfe7d0d5d04962b3360d",
+                "sha512": "bf9727e791288019fbf88b02c0c33ea656ab2e8c2701c286270259476d5ad999852f37878170670a0e36c0788143fc98bc2810e387e892a6bd30821a6b663fad"
+            },
+            "path": "mods/Quark-r1.6-179.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/qeEEslrN/versions/1hfd6PrK/QuarkOddities-1.12.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1556,
+            "hashes": {
+                "sha1": "f2ba40e084e31a00e1a93c44dd01d07384bd1fcd",
+                "sha512": "80d6b5a5338aa49064fd3666fe8331223d5c5966f533afad536fc2e961970c3f3d57310ca751b3d221a9cbd145c18279e6ab86b12bd22798e1bec9f734903207"
+            },
+            "path": "mods/QuarkOddities-1.12.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/UYCC0zlc/versions/Lf9FYnqS/RLFoliage-MC1.12-2.4.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 732399,
+            "hashes": {
+                "sha1": "f8f7c012930d2472bdc3b7e1a668db00ca027367",
+                "sha512": "fe4c736a010a9c034542b2c0e903db6d25fca21500dd828310eef76cbc41ad4da019cc3e215a765a5e5aec68676ee86192d23d7861486ac1c3723d6e3c84f4aa"
+            },
+            "path": "mods/RLFoliage-MC1.12-2.4.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/zlUHp0vr/versions/0.3.1/RedstoneMinusRedstone-0.3.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 40339,
+            "hashes": {
+                "sha1": "1ec586a55aefc19688d6d54bbcb484d57d6d4268",
+                "sha512": "ceba65e1feefc701dd7132ef5324c1397d7166e88049d4f8e071d16b242e6531ceb995fc3f2e81fc4270bdc43c95a3ac556cabfeef6f70c1462cf55730eb3305"
+            },
+            "path": "mods/RedstoneMinusRedstone-0.3.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/6EM17yue/versions/CqenoT72/Seared-Ladder-v1.1.2-mc1.12.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 22901,
+            "hashes": {
+                "sha1": "d32a413a0ef30db8c25ee1e069591edd43dc90b8",
+                "sha512": "2f4f7a3d18a54d99fb65836bbbd1134f95e662cf6a5b17fd40fc97bc26068b41b9faf36eebb6ba9371226a8763d3a07994713cc5bfd44fe5a8c8c22d4f3fab4c"
+            },
+            "path": "mods/Seared-Ladder-v1.1.2-mc1.12.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/rxIIYO6c/versions/mNZUIBbe/TConstruct-1.12.2-2.13.0.183.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 4023372,
+            "hashes": {
+                "sha1": "e37e1f05ad0eaf567497ce655bc877dc1778bd0f",
+                "sha512": "84c41a667b88b991562b005383b211e877c10fc6e442d5d9fff7f771795d71bf69836fa069effa9effea7d079499ec63517a764fa92eaf206c57d3b1406f9f1c"
+            },
+            "path": "mods/TConstruct-1.12.2-2.13.0.183.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/JaCEZUhg/versions/k4rM7PTU/TerraFirmaCraft-MC1.12.2-1.7.23.181.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 28094769,
+            "hashes": {
+                "sha1": "02572c98137f42c8e35bc5a74a7a78699bbad373",
+                "sha512": "69ce7d6e7236769d8db6d48fbb0b9ccb4fc1afceb50bfb7bb3330251bf4817421239dc107a98547a378e0f526b79bd288086243a5b7d258bc139a28cc9754c0f"
+            },
+            "path": "mods/TerraFirmaCraft-MC1.12.2-1.7.23.181.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/KRi6s8j8/versions/d167xwRP/TinkerSurvival-1.12.2-1.2.3.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1759614,
+            "hashes": {
+                "sha1": "9d6b72245dcf8ce65774e1e096afc8a103c12cc7",
+                "sha512": "8996f7f045d4374e0c1b8a9ca27701267c80e186080194726e32cd3d66853050bc656c3537e471d471a7cbf0b8cdea0b18e803cecfda9ac00159861ff7fc01db"
+            },
+            "path": "mods/TinkerSurvival-1.12.2-1.2.3.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/qKP5oCti/versions/EZKIZ021/Trinkets%20and%20Baubles-32.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1974198,
+            "hashes": {
+                "sha1": "58ac58390627cdc7a844b71b6c3eb412d6c7df68",
+                "sha512": "6c7c14060be63396629bea2dcb3b3ffa334eaec41e4c40fee134087fe3a5977177394c25169764d5554f692fa26c3ded85ab2461edfebd039d867855d4319673"
+            },
+            "path": "mods/Trinkets and Baubles-32.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/s32LssQX/versions/o3EXxrkS/UniversalTweaks-1.12.2-1.10.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1243051,
+            "hashes": {
+                "sha1": "8eca372e4a0a3c847bbf4ff672d7f81f14354bd3",
+                "sha512": "8aab929157d04ccd930014b3c2f9f7defbb9b156de3b006fabf4a7912c5e7fe6095da4247178b8fbc32c4bd1ba28b5e1ee4f672beb4bdd23fe44e06f6c10c4f4"
+            },
+            "path": "mods/UniversalTweaks-1.12.2-1.10.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Dcdm9m9l/versions/0.2.4/YNot-0.2.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 63867,
+            "hashes": {
+                "sha1": "7192f98116899b6755fbd631bff2721c40f65bea",
+                "sha512": "58952c8d27af15571f5814d1112a9c3325763eabd07f59d6c4f0dcd36be3f35867f66b93d4e9919860adbe09207a122869292b0b2e5ce9107976e15cc424b2e5"
+            },
+            "path": "mods/YNot-0.2.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/PHISlklk/versions/7sIngbMk/%5B___MixinCompat-0.8___%5D.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 867296,
+            "hashes": {
+                "sha1": "b70fe3fa98be2c0ffb673e88505dada51c1b12d5",
+                "sha512": "b5da99b5fe8808361dfa447eef900cb6876f715d578392fbed2e4138ffeba039b1a7480640285daea8a928bd9a1c3ceda703a7fc66311256a50572545fa4e50c"
+            },
+            "path": "mods/[___MixinCompat-0.8___].jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1119478,
+            "hashes": {
+                "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8",
+                "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8"
+            },
+            "path": "mods/_MixinBootstrap-1.1.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/NagGBWfG/versions/1.0.0/aafluxified-1.12.2-1.0.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 7253,
+            "hashes": {
+                "sha1": "d6362405150b9e981669094be85befb94d60556b",
+                "sha512": "d02850093211556a53281ac7fa9332f40f2a4690e0d7a3e97e966ad4e91ae142319cf2392740f53e50a6c9fd6f608d7b3c3c968c8f17220c940d97fc39c804ce"
+            },
+            "path": "mods/aafluxified-1.12.2-1.0.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/BPOzR8WC/versions/FJASTJA5/ae2-uel-extended-v0.55.30-0.4-rv6-stable-7.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 4875548,
+            "hashes": {
+                "sha1": "a1a13e7a26806ea664d3835231c0b59df1014899",
+                "sha512": "bb965445ad9b14962037b1325fa3f09aae2cb85baaa9de04b817eacc14570c6a2d0453ab0baf429338a2204a030f93c46462101f9ab222fc362f2958b508bee8"
+            },
+            "path": "mods/ae2-uel-extended-v0.55.30-0.4-rv6-stable-7.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/1Kf6H9td/versions/1Jv4bvaI/ae2stuff-extended-1.12.2-v0.8-0.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 769509,
+            "hashes": {
+                "sha1": "4647d9f53f6d605e35735463ef31ca42be8a2ff0",
+                "sha512": "ba73fb2dacbc6236bd7790c1eaadead4c3d58f225b82e4a29c47710c3fd091ac6833aad50ed5b5b1cb4b5ef7faf12958da20b121c1ae57e7a50f92d33aada9f9"
+            },
+            "path": "mods/ae2stuff-extended-1.12.2-v0.8-0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/aAxrUtTF/versions/VLYYoN8V/brokenwings-3.1.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 44190,
+            "hashes": {
+                "sha1": "f2f1406d903e94695663596ffe5c91fa287966ff",
+                "sha512": "3e3f251753931f84c0f7f9a15ea948a8075d89fbbf0a6253f52d4ba8b20cf6c8b2e8bff8a46802483a60ba3f87035f27785dc8369573150f1cdc9fe0d5eed69d"
+            },
+            "path": "mods/brokenwings-3.1.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ALKGFBqb/versions/6AWXd1S8/enderutilities-1.12.2-0.7.15.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1730192,
+            "hashes": {
+                "sha1": "cf80a6629d04876090890d6417ba4685c9aedc08",
+                "sha512": "0bf2da07408cc03bd48b64d3913f5f67b5f80587dae161432f806440a10c39aed5c2d4931acd97a063b5fa7e4819bfb91a9985524f469920ee54e3f74cd52edb"
+            },
+            "path": "mods/enderutilities-1.12.2-0.7.15.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/LnSdxRsG/versions/IxeuzWI2/fermiumasm-5.22.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 511374,
+            "hashes": {
+                "sha1": "3dc10358a15dd104fe86cfd6b8f909784c92dbc6",
+                "sha512": "5cb25197efafb2ffa88f9eead83d2c4dae1deb1f9ba3c77f859b4d8a3fe6a34353bffff7f3703d4cce13f4710a5fb7ef1bd2cd105d26c51318f74412b5af39cc"
+            },
+            "path": "mods/fermiumasm-5.22.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/5bKeBHw2/versions/fZ6g9trN/firmalife-0.5.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1912786,
+            "hashes": {
+                "sha1": "8762eb26c2c8c28b4950c7891bff8639428f153e",
+                "sha512": "f93b694d8dcfade6b3c1e8f48b8262732b339c37541102821e1765b6f95ac84bb73914db1da147c207f576d6c4231e73129efeff11e67b5e6d1fe26d84f7b09a"
+            },
+            "path": "mods/firmalife-0.5.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/GJaDRTrb/versions/WvjPF1tD/groovyscript-1.0.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 12489657,
+            "hashes": {
+                "sha1": "894adc513534b8a87ea3cf7c6f3b336918e6700f",
+                "sha512": "1156a984b4fb582e47bdd86521d2e9a4edd22e3106667ff3884b6803de4d2fc60a723d08c8ee7aa77e55f88b4324c077af73e831576312a37128c005afbb3320"
+            },
+            "path": "mods/groovyscript-1.0.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/FOVCOVzb/versions/UEJOg6zD/ic2cuumatter-1.12.2-1.1.3.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 73925,
+            "hashes": {
+                "sha1": "e72a294efe43f4d391a92e9ceeda87b20fc26390",
+                "sha512": "ab55618e572fd5b041e9b7f870aa2455848ad3bb00b63a85ad898d4c769c7e28d190706671745aa14d9e3dd109a27c11b9a22a5b0897c90b34f80ddf2d717f2a"
+            },
+            "path": "mods/ic2cuumatter-1.12.2-1.1.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/47X9IMcP/versions/RfBpqjZJ/ic2xuumatter-1.12.2-1.1.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 97668,
+            "hashes": {
+                "sha1": "021efd0cd1532284a2363286aefaef62b408a65c",
+                "sha512": "98783515c1ad72e83c4dbd04634b33dc67cd04169ca9e51645ba46cfae7fb1e88b60548b660bb4dc19eca196e23cdf7463464f89e623fff0bc1c14e904915a0f"
+            },
+            "path": "mods/ic2xuumatter-1.12.2-1.1.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/wTncj5gs/versions/k2tOj88k/industrialcraft-2-2.8.222-ex112.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 8698102,
+            "hashes": {
+                "sha1": "7b1263c23b3a276ae7bee4ef9b07b0a96cb397b1",
+                "sha512": "42775b7f939d43f56f4f32e4fa346f48a6ba3ac5f5420448882a40eb119a9a59c4d43f4959620075d0c58d251f7f662b7aafeb3351f2279523b7d28de947dd48"
+            },
+            "path": "mods/industrialcraft-2-2.8.222-ex112.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/jnLCw7qt/versions/LJx6OxQf/lostcities-1.12-2.0.22.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 883295,
+            "hashes": {
+                "sha1": "19e926ad3cb59553944cf22680a48cc010d10fa3",
+                "sha512": "06fc82f0b85442c6dd90a3c27fb526fe2f770c7f6c892c5f8da31397e1d90ec0a108c1b5c0ee7506522e511624b453dea53ab74ea1917f825d15654966170558"
+            },
+            "path": "mods/lostcities-1.12-2.0.22.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/1Zu0uTEE/versions/KOV8fkZb/mcjtylib-1.12-3.5.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 544856,
+            "hashes": {
+                "sha1": "8f3e381c4aea651f55ed1cd35fd69613fcd7f9da",
+                "sha512": "74c656fbb4bd589130866756d1dd3b7623f49cc640da11effa6bab0259717fdb37ea3852b074781642762ffc6578ffb111ac75400b0a7d2db7476ef5a5a61a8b"
+            },
+            "path": "mods/mcjtylib-1.12-3.5.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ZQaUJHDe/versions/4DiT4zlz/mekanismtweaks-1.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 975744,
+            "hashes": {
+                "sha1": "ac22fea132c31151175ed4d9bda6a77826027afd",
+                "sha512": "e692764d0f51b72963c857a5f894846cf425611cd6829a947e7207d6ba6692f881aefc315f32d0c051b6b2420c335e177a194b8247bc4228986ae9f48dd63870"
+            },
+            "path": "mods/mekanismtweaks-1.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/nhWabjBB/versions/8zwV6fbO/moretcon-1.11.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 3024216,
+            "hashes": {
+                "sha1": "bde1fd4b18718b432379c45953797e5a736c095a",
+                "sha512": "b286eef617dea19cb439cc7157937e9ecbbfa70fd7d634a0fc6b171e45b80d770cbb9a6bc77158d7062a1a44910bf010a845037c3caf3716b4eed0cae9210e6b"
+            },
+            "path": "mods/moretcon-1.11.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/CKI6qOiK/versions/yujDGqmv/overworldquartz-1.12-1.0.0.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 12118,
+            "hashes": {
+                "sha1": "da5fdb7dbf66dc4a637c4e674beeae5faacbb1b4",
+                "sha512": "caf3f535206708e5bb8b6328244635ef9757baf06dc1dbb613004c3d7c2c89dbbc1fe8320b8c06cfd48c2aa4bd9c3f9a311909a5d40cf15e7262ead1d9f9a344"
+            },
+            "path": "mods/overworldquartz-1.12-1.0.0.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Eyw0UxEx/versions/VYorc4gX/theoneprobe-1.12-1.4.28.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 301893,
+            "hashes": {
+                "sha1": "d5b5be5d5d54de5ed35c96131118c411a51129bc",
+                "sha512": "e45eb5112cbdd790cb627153fc16a1720868cbb34712b3df00253d81a6f4960a3b8fc8ae7418f90451e04607ea83fefc182231d090608eda576f4d896461041c"
+            },
+            "path": "mods/theoneprobe-1.12-1.4.28.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ciiX3QCe/versions/1.0.1/topextras-1.12.2-1.0.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 65338,
+            "hashes": {
+                "sha1": "fdc3bbd18af4d2e8035b61e7e32b7bcde8f8e7c1",
+                "sha512": "4f8171e97d60837bd304b2412ca3eb05c3e0beb9f101b245b5ab7fefff096c825dc16d1f7c84e4076c80e278ea261ad25e115c5c002f8fe5ab961a19d138de19"
+            },
+            "path": "mods/topextras-1.12.2-1.0.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/e6vNsbAm/versions/VuHHkpXQ/vintagefix-0.4.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 816243,
+            "hashes": {
+                "sha1": "64b1d5999c86c908f29921fd0ed4e8bd103b2406",
+                "sha512": "58296840ebd940502efc1e835635a25f60771cca1d95961dc9385d4bd1271fd7fbabf42067a319a2ff04ff77e6a7d8694e175779b2efd14292185305cdd2107a"
+            },
+            "path": "mods/vintagefix-0.4.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/iu1jkWqa/versions/bcioOzsw/xnet-1.12-1.8.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 496307,
+            "hashes": {
+                "sha1": "085f5aef1d407f815028e5ecc87265cc5d8142e6",
+                "sha512": "9e2bf5039b1818c13bb7acb5e211898d46a2d315566f050a202fe0580568b99e4ea262180ef4cc3bebc00b8cc209b310727bc662553f20151a8b14e75580038c"
+            },
+            "path": "mods/xnet-1.12-1.8.2.jar"
+        }
+    ],
+    "formatVersion": 1,
+    "game": "minecraft",
+    "name": "test1cc",
+    "summary": "file director?",
+    "versionId": "ALPHA-0.1-firstc"
+}

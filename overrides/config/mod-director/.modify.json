@@ -1,0 +1,5 @@
+{
+	"folder": "mods",
+	"fileName": "FermiumBooter*.jar",
+	"newFileName": "!FermiumBooter.jar"
+}

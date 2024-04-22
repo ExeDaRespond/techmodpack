@@ -1,0 +1,195 @@
+{
+	"// Better INFO todo \\": [
+		"COFH Team Mods",
+		{
+			"MODS": [
+				"THERMAL FOUNDATION",
+				[
+					"ADDONID : 222880",
+					"FILEID : 2926428"
+				],
+				"THERMAL DYNAMICS",
+				[
+					"ADDONID : 227443",
+					"FILEID : 2920505"
+				],
+				"THERMAL EXPANSION",
+				[
+					"ADDONID : 69163",
+					"FILEID : 2926431"
+				],
+				"THERMAL CULTIVATION",
+				[
+					"ADDONID : 271835",
+					"FILEID : 2920437"
+				],
+				"COFH CORE",
+				[
+					"ADDONID : 69162",
+					"FILEID : 2920433"
+				],
+				"COFH WORLD",
+				[
+					"ADDONID : 271384",
+					"FILEID : 2920434"
+				],
+				"REDSTONEFLUX",
+				[
+					"ADDONID : 270789",
+					"FILEID : 2920436"
+				]
+			],
+			"ALL UPDATED?": "maybe (the mods are maybe outdated since the last update is few years now)",
+			"COMMENT": "i add the mods completely"
+		},
+		"YUNGNICKYOUNG Mods",
+		{
+			"MODS": [
+				"YUNG'S BETTER MINESHAFTS",
+				[
+					"ADDONID : 389665",
+					"FILEID : 3247154"
+				],
+				"YUNG'S BETTER CAVES",
+				[
+					"ADDONID : 340583",
+					"FILEID : 3003242"
+				],
+				"YUNG'S LAW",
+				[
+					"ADDONID : 399377",
+					"FILEID : 3113274"
+				]
+			],
+			"ALL UPDATED?": "maybe (the mods are maybe outdated since the last update is few years now)",
+			"COMMENT": "done"
+		},
+		"bdew Mods",
+		{
+			"MODS": [
+				"BDLIB",
+				[
+					"ADDONID : 70496",
+					"FILEID : 4675629"
+				]
+			],
+			"ALL UPDATED?": "maybe (the mods are maybe outdated since the last update is few years now)",
+			"COMMENT": "ae2 stuff uel needed this"
+		},
+		"Violet Moon Modding Mods",
+		{
+			"MODS": [],
+			"ALL UPDATED?": "maybe (the mods are maybe outdated since the last update is few years now)",
+			"COMMENT": "dont ask why the mods are empty"
+		},
+		"Azanor Mods",
+		{
+			"MODS": [
+				"BAUBLES",
+				[
+					"ADDONID : 227083",
+					"FILEID : 2518667"
+				]
+			],
+			"ALL UPDATED?": "maybe (the mods are maybe outdated since the last update is few years now)",
+			"COMMENT": "added"
+		},
+		"FTB Team Mods",
+		{
+			"MODS": [
+				"YET ANOTHER BETTER BARRELS (YABBA)",
+				[
+					"ADDONID : 237102",
+					"FILEID : 3157548"
+				],
+				"FTB UTILITIES",
+				[
+					"ADDONID : 237102",
+					"FILEID : 3157548"
+				],
+				"FTB QUESTS",
+				[
+					"ADDONID : 289412",
+					"FILEID : 3156637"
+				],
+				"FTB ULTIMINE",
+				[
+					"ADDONID : 386134",
+					"FILEID : 3078750"
+				],
+				"FTB LIBRARY (LEGACY)",
+				[
+					"ADDONID : 237167",
+					"FILEID : 2985811"
+				],
+				"ITEMFILTERS",
+				[
+					"ADDONID : 309674",
+					"FILEID : 3003364"
+				]
+			],
+			"ALL UPDATED?": "maybe (the mods are maybe outdated since the last update is few years now)",
+			"COMMENT": "done"
+		},
+		"Ellpeck Mods",
+		{
+			"MODS": [
+				"ACTUALLY ADDITIONS",
+				[
+					"ADDONID : 228404",
+					"FILEID : 3117927"
+				]
+			],
+			"ALL UPDATED?": "maybe (the mods are maybe outdated since the last update is few years now)",
+			"COMMENT": "done"
+		},
+		"CleanroomMC Mods",
+		{
+			"MODS": [
+				"HAD ENOUGH ITEMS",
+				[
+					"ADDONID : 557549",
+					"FILEID : 5229422"
+				]
+			],
+			"ALL UPDATED?": "YES",
+			"COMMENT": "done"
+		},
+		"MasterYodAT9G Mods",
+		{
+			"MODS": [
+				"AE2 ADDITIONS - EXTRA CELLS 2 FORK",
+				[
+					"ADDONID : 493962",
+					"FILEID : 3814371"
+				]
+			],
+			"ALL UPDATED?": "maybe",
+			"COMMENT": "done"
+		},
+		"RWTema Mods",
+		{
+			"MODS": [
+				"EXTRA UTILITES",
+				[
+					"ADDONID : 225561",
+					"FILEID : 2678374"
+				]
+			],
+			"ALL UPDATED?": "maybe",
+			"COMMENT": "done"
+		},
+		"DrManganese Mods",
+		{
+			"MODS": [
+				"TOP ADDONS",
+				[
+					"ADDONID : 247111",
+					"FILEID : 2887479"
+				]
+			],
+			"ALL UPDATED?": "maybe",
+			"COMMENT": "done"
+		}
+	]
+}
