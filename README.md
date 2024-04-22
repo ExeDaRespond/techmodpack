@@ -2,4 +2,4 @@
 just some configs n stuff (no mods included)
 
 # NOTE
-always remember to download file director to get the curseforge mods or github.
+always remember to download [file director](https://modrinth.com/mod/filedirector/versions) to get the curseforge mods or github.
