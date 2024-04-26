@@ -1,31 +1,31 @@
 {
     "dependencies": {
-        "forge": "14.23.5.2860",
+        "forge": "15.24.0.3038",
         "minecraft": "1.12.2"
     },
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/e00stJKZ/versions/ij0ZKnvW/FermiumBooter-1.0.1.jar"
+                "https://cdn.modrinth.com/data/iRzbJEus/versions/EgeSQe7e/%21Red-Core-MC-1.7-1.12-0.5.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 13827,
+            "fileSize": 130772,
             "hashes": {
-                "sha1": "59235b37c93db143e483355f22d34d7dd68dea1f",
-                "sha512": "fe60d8a66f32814aca3676230418ada7ae1991b2a33ec04f0ab1514288781471696954a815c0efe38db684019223ae79087a3a22a7cb9b42772d5b8b5e393b94"
+                "sha1": "7b948311155c1ba8d3f2b1a18a1caa751f1925d0",
+                "sha512": "af65b6d31dbcd6acedc9d82b85b0536faf1355d58ecef9d9dbd4f04b231b8d5b00963390a6a69f13e69da44a052350fcdd3ecb885dbbb7f5d16e0193256c6b13"
             },
-            "path": "mods/!FermiumBooter-1.0.1.jar"
+            "path": "mods/!Red-Core-MC-1.7-1.12-0.5.1.jar"
         },
         {
             "downloads": [
                 "https://cdn.modrinth.com/data/Bnsrfd1o/versions/Ha5RG6IC/%21configanytime-3.0.jar"
             ],
             "env": {
-                "client": "required",
-                "server": "required"
+                "client": "optional",
+                "server": "optional"
             },
             "fileSize": 5201,
             "hashes": {
@@ -39,8 +39,8 @@
                 "https://cdn.modrinth.com/data/G1ckZuWK/versions/yUnADFGO/%21mixinbooter-9.1.jar"
             ],
             "env": {
-                "client": "required",
-                "server": "required"
+                "client": "optional",
+                "server": "optional"
             },
             "fileSize": 1799352,
             "hashes": {
@@ -51,18 +51,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/4dRu1OUz/versions/b8pITnja/%21mod-director-launchwrapper-1.8.3.jar"
+                "https://cdn.modrinth.com/data/srzJgOEn/versions/eXsbM9qx/Alfheim-1.3.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2917748,
+            "fileSize": 69784,
             "hashes": {
-                "sha1": "e00b900dc224c816289fb66716429f57a86c88dd",
-                "sha512": "341c304d4545b8cf7a0e1a2d5907bfdaf5675904b104844f019670647a15e2aabcff56c44f0860d3a70b333fc301d7261b3fe6ae66b41b3de72d72d7048b87d0"
+                "sha1": "02266604255a9b0936b02a772f104bd15462876b",
+                "sha512": "c8e42755c89811bd7f148bd01f63ebea366804d98bc99c86341a6bbcfa86d5ac2e6c6d5fb7e657b56e66c753566964e70801393a09976b67ad286960195a89e2"
             },
-            "path": "mods/!mod-director-launchwrapper-1.8.3.jar"
+            "path": "mods/Alfheim-1.3.jar"
         },
         {
             "downloads": [
@@ -190,7 +190,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 915067,
             "hashes": {
@@ -216,18 +216,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/PlkSuVtM/versions/Lq9syePn/HammerLib-1.12.2-2.0.6.32.jar"
+                "https://cdn.modrinth.com/data/PlkSuVtM/versions/bOtolRGl/HammerLib-1.12.2-12.2.50.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2430079,
+            "fileSize": 2539358,
             "hashes": {
-                "sha1": "03466db5a22d44af92b1a5d029328ebf146b6092",
-                "sha512": "9f0bba40daca2b2a75eecdf9fe7ff1f43f8ec18b813802a37f442d8eb02320d6cdf67f6d38b8f661f1efdbcf90a3107554d136168e63f59d257cfbc4f6fc1bad"
+                "sha1": "48f153cfe8b6f71c5658fddd8905c17b4750f137",
+                "sha512": "f61d6f9dafd5f49b434f2382298bac14bdb841f7c44772bb6d45e4a79e67c0356d91e24e3e542221c82f50b900b4e7878c71185febd893a822693ccb695a857d"
             },
-            "path": "mods/HammerLib-1.12.2-2.0.6.32.jar"
+            "path": "mods/HammerLib-1.12.2-12.2.50.jar"
         },
         {
             "downloads": [
@@ -295,7 +295,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 157232,
             "hashes": {
@@ -336,26 +336,11 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/qeEEslrN/versions/1hfd6PrK/QuarkOddities-1.12.2.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 1556,
-            "hashes": {
-                "sha1": "f2ba40e084e31a00e1a93c44dd01d07384bd1fcd",
-                "sha512": "80d6b5a5338aa49064fd3666fe8331223d5c5966f533afad536fc2e961970c3f3d57310ca751b3d221a9cbd145c18279e6ab86b12bd22798e1bec9f734903207"
-            },
-            "path": "mods/QuarkOddities-1.12.2.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/UYCC0zlc/versions/Lf9FYnqS/RLFoliage-MC1.12-2.4.1.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 732399,
             "hashes": {
@@ -501,26 +486,11 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 1119478,
-            "hashes": {
-                "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8",
-                "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8"
-            },
-            "path": "mods/_MixinBootstrap-1.1.0.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/NagGBWfG/versions/1.0.0/aafluxified-1.12.2-1.0.0.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 7253,
             "hashes": {
@@ -558,21 +528,6 @@
                 "sha512": "ba73fb2dacbc6236bd7790c1eaadead4c3d58f225b82e4a29c47710c3fd091ac6833aad50ed5b5b1cb4b5ef7faf12958da20b121c1ae57e7a50f92d33aada9f9"
             },
             "path": "mods/ae2stuff-extended-1.12.2-v0.8-0.2.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/aAxrUtTF/versions/VLYYoN8V/brokenwings-3.1.0.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 44190,
-            "hashes": {
-                "sha1": "f2f1406d903e94695663596ffe5c91fa287966ff",
-                "sha512": "3e3f251753931f84c0f7f9a15ea948a8075d89fbbf0a6253f52d4ba8b20cf6c8b2e8bff8a46802483a60ba3f87035f27785dc8369573150f1cdc9fe0d5eed69d"
-            },
-            "path": "mods/brokenwings-3.1.0.jar"
         },
         {
             "downloads": [
@@ -640,7 +595,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 73925,
             "hashes": {
@@ -655,7 +610,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 97668,
             "hashes": {
@@ -678,6 +633,21 @@
                 "sha512": "42775b7f939d43f56f4f32e4fa346f48a6ba3ac5f5420448882a40eb119a9a59c4d43f4959620075d0c58d251f7f662b7aafeb3351f2279523b7d28de947dd48"
             },
             "path": "mods/industrialcraft-2-2.8.222-ex112.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/dN19ps1e/versions/1.0.1/inle-1.12.2-1.0.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 6616,
+            "hashes": {
+                "sha1": "0257e346b0a45cb458bd2fbae9f2b3df775c45a0",
+                "sha512": "f4003ddfce26a146846d321c06b639c94a43fd2cfd3090e38ba7434a2f4f0ecc54d100c57c524c2e5ff559b90cb3f11198765bf82589b2c5eae6b08a0e17dbc7"
+            },
+            "path": "mods/inle-1.12.2-1.0.1.jar"
         },
         {
             "downloads": [
@@ -756,6 +726,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/FwyGRcXc/versions/xRnNLLgU/rftools-1.12-7.73.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 2895803,
+            "hashes": {
+                "sha1": "16a4e8c1907bdaac546ab3fd56904d202da427f3",
+                "sha512": "d1e169efd1ace4065f53d3038ced36e5fed881c58513d1692295e823158b3bd4d368386999171c32f6fcc0d3de064af9c7ac5800d48e613c5f26d00d2aae2c05"
+            },
+            "path": "mods/rftools-1.12-7.73.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/Eyw0UxEx/versions/VYorc4gX/theoneprobe-1.12-1.4.28.jar"
             ],
             "env": {
@@ -817,7 +802,7 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "test1cc",
-    "summary": "file director?",
-    "versionId": "ALPHA-0.1-firstc"
+    "name": "geronimo",
+    "summary": "c c c c c c",
+    "versionId": "ALPHA-0.0.2"
 }
