@@ -3,7 +3,7 @@ just some configs n stuff (no mods included)
 
 ## NOTE
 1. For optimal speed (LWJGL 3) and an updated Java version (only Java 21), it is recommended to utilize [CleanroomMC's Loader](https://github.com/CleanroomMC/Cleanroom).
-2. Attempt to download the Sodium Backport through [Asek3's Sodium Port](https://github.com/Asek3/sodium-1.12) and navigate to the [Actions tab (getting artifacts requires a GitHub account)](https://github.com/Asek3/sodium-1.12/actions).
+2. If you needed a sodium backport, look at [Asek3's Sodium Port](https://github.com/Asek3/sodium-1.12) and navigate to the [Actions tab (getting artifacts requires a GitHub account)](https://github.com/Asek3/sodium-1.12/actions).
 3. It is advised to use some performance Java Arguments ([brucethemoose java flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) or [Mukul1127's updated version](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks/tree/main)) with the modpack, as mentioned above (CleanroomMC's Loader). This will minimize stutters and speed up startup, among other benefits!
 
 ## Compatility
